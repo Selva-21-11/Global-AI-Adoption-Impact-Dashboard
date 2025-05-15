@@ -67,6 +67,7 @@ This dashboard empowers executives, analysts, and policymakers to:
 ---
 
 ![image](https://github.com/user-attachments/assets/0328fe7a-2936-4969-a3c4-b8efa275344e)
-![image](https://github.com/user-attachments/assets/a85370cb-074c-4de5-905d-ecb2a52dd4f7)
+![image](https://github.com/user-attachments/assets/fa807af0-38fc-4ce9-a1b7-22df8e7f3e28)
+
 
 
